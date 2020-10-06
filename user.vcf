@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Qiu;Jiahui;;;
+FN: Jiahui  Qiu 
+ORG:ISEAS;
+TITLE:Research Officer\nClimate change programme, ISEAS
+EMAIL;type=INTERNET;type=WORK;type=pref:qiu_jiahui@iseas.edu.sg
+TEL;type=WORK;type=VOICE:+65 9365 7997
+item1.ADR;type=WORK;type=pref:;;30 Heng Mui Keng Terrace\nSingapore 1196141
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:https://www.iseas.edu.sg/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
